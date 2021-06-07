@@ -1,0 +1,6 @@
+libraries/
+mods/
+1.16.5.json
+eula.txt
+*.jar
+server.properties
